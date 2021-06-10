@@ -1,0 +1,22 @@
+#logotipo{
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+
+#footer {
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    left: 0;
+    bottom: auto;
+    width: 100%;
+    background-color: #f0f0f0;
+    text-align: left;
+}
+
+#linha_footer {
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
