@@ -1,3 +1,7 @@
+body{
+    background-color: #f0f0f0;
+}
+
 #logotipo{
     margin-left: auto;
     margin-right: auto;
@@ -7,12 +11,18 @@
 li{
     list-style: none;
     font-size: 12px;
+    text-align: left;
 }
 
 .texto-footer{
     font-size: 12px;
 }
 
-a{
+#linkRodape{
     font-size: 12px;
+}
+
+#folha{
+    background-color: white;
+    height: 560px;
 }
