@@ -26,3 +26,15 @@ li{
     background-color: white;
     height: auto;
 }
+
+footer {
+    position:absolute;
+    bottom:0;
+    width:100%;
+}
+
+#footerRelativo {
+    position:relative;
+    bottom:0;
+    width:100%;
+}
